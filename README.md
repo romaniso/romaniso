@@ -7,7 +7,7 @@
 - 🌍 Fun fact: I speak five languages 
 
 ### Connect with me:
-[![website](./images/website.png)][1][![facebook](./images/facebook.png)][2][![linkedin](./images/linkedin.png)][3]
+My **webpage** [![website](./images/website.png)][1] | My **facebook** [![facebook](./images/facebook.png)][2] | My **linkedin** [![linkedin](./images/linkedin.png)][3]
 
 [1]: https://codewithroman.netlify.app/
 [2]: https://www.linkedin.com/in/roman-isopenko-b481b11ba/
