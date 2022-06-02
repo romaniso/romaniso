@@ -11,9 +11,15 @@
 ---
 
 ## Skills and Experience
+<p>
+  <img src="./images/html.png" height="40" alt="javascript" style="max-width: 100%;">
+  <img src="./images/css-3.png" height="40" alt="javascript" style="max-width: 100%;">
+  <img src="./images/js.png" height="40" alt="javascript" style="max-width: 100%;">
+  <img src="./images/sass.png" height="40" alt="javascript" style="max-width: 100%;">
+  <img src="./images/physics.png" height="40" alt="javascript" style="max-width: 100%;">
+  <img src="./images/git.png" height="40" alt="javascript" style="max-width: 100%;">
+</p>
 
-<img src="./images/html.png" height="40" alt="javascript" style="max-width: 100%;">
-<img src="./images/css-3.png" height="40" alt="javascript" style="max-width: 100%;">
 
 ---
 
