@@ -1,3 +1,5 @@
+![Banner](./images/banner.png)
+
 ### What's up, I am Roman! 👋 
 ## I am a Front End Developer located in Poland! Look me up **[Code with Roman](https://codewithroman.netlify.app/)**
 
@@ -5,6 +7,8 @@
 - 🔎 I'm currently looking for a commercial work
 - 🎨 I'm an open-minded guy who loves creating and learning new things
 - 🌍 Fun fact: I speak five languages 
+
+---
 
 ### Connect with me:
 My **webpage** [![website](./images/website.png)][1] | My **facebook** [![facebook](./images/facebook.png)][2] | My **linkedin** [![linkedin](./images/linkedin.png)][3]
