@@ -10,6 +10,13 @@
 
 ---
 
+## Skills and Experience
+
+<img src="./images/html.png" height="40" alt="javascript" style="max-width: 100%;">
+<img src="./images/css-3.png" height="40" alt="javascript" style="max-width: 100%;">
+
+---
+
 ### Connect with me:
 My **webpage** [![website](./images/website.png)][1] | My **facebook** [![facebook](./images/facebook.png)][2] | My **linkedin** [![linkedin](./images/linkedin.png)][3]
 
