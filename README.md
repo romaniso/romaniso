@@ -1,7 +1,7 @@
 ![Banner](./images/banner.png)
 
 ### What's up, I am Roman! 👋 
-## I am a Front End Developer located in Poland! Look me up **[Code with Roman](https://codewithroman.netlify.app/)**
+## I am a Front End Developer located in Poland! Look me up in **[Code with Roman](https://codewithroman.netlify.app/)**
 
 - 📚 I'm currently improving my skills in React, JS, SASS, Redux
 - 🔎 I'm currently looking for a commercial work
