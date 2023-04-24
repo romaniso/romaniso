@@ -1,4 +1,4 @@
-![Banner](./images/banner.png)
+![Banner](./images/banner.jpg)
 
 ## I am a Front End Developer located in Poland! Look me up in **[Roman's Code](https://romanscode.com/)**
 
