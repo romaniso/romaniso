@@ -22,6 +22,7 @@
   <img src="./images/physics.png" height="40" alt="javascript" style="max-width: 100%;">
   <img src="./images/git.png" height="40" alt="javascript" style="max-width: 100%;">
   <img src="./images/webpack.png" height="40" alt="javascript" style="max-width: 100%;">
+  <img src="./images/nodejs.png" height="40" alt="javascript" style="max-width: 100%;">
 </p>
 
 ### Connect with me:
