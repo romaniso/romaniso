@@ -1,7 +1,5 @@
 ![Banner](./images/banner.png)
 
-### What's up, I am Roman! 👋
-
 ## I am a Front End Developer located in Poland! Look me up in **[Roman's Code](https://romanscode.com/)**
 
 - 📚 I'm currently improving my skills in TypeScript, React, Tailwind, Node.js
